@@ -68,7 +68,6 @@ namespace Network.ClientServer
 
                 while ((cmd = m_Driver.PopEventForConnection(m_connections[i], out strm)) != NetworkEvent.Type.Empty)
                 {
-                    Debug.LogError(cmd);
                     if (cmd == NetworkEvent.Type.Data)
                     {
                         ProcessData(strm, m_connections[i].InternalId);

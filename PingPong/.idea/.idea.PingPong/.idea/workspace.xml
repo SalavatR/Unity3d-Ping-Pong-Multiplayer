@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Network/ClientServer/ServerHandlers.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <marker date="1558941311369" expanded="false" signature="6:78" ph="..." />
                 <marker date="1558941311369" expanded="true" signature="110:2851" ph="{...}" />
@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Network/ClientServer/ServerBehaviour.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1020">
-              <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
               <folding>
                 <marker date="1558939935597" expanded="false" signature="6:156" ph="..." />
                 <marker date="1558939935597" expanded="true" signature="158:212" ph="/* todo: Add connection map ... */" />
@@ -208,7 +208,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Network/ClientServer/ServerHandlers.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <marker date="1558941311369" expanded="false" signature="6:78" ph="..." />
             <marker date="1558941311369" expanded="true" signature="110:2851" ph="{...}" />
@@ -234,7 +234,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Network/ClientServer/ServerBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
-          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
           <folding>
             <marker date="1558939935597" expanded="false" signature="6:156" ph="..." />
             <marker date="1558939935597" expanded="true" signature="158:212" ph="/* todo: Add connection map ... */" />
