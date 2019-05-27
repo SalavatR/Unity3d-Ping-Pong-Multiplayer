@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Salavat\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Salavat\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_sampleproject.461755023.00" t="ExcludeRecursive" />
+    <e p="D:\SalavatWork\multiplayer\com.unity.transport\Editor" t="Include">
+      <e p="PipelineCollectionGeneratorWindow.cs" t="Include" />
+      <e p="Unity.Networking.Transport.Editor.asmdef" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\multiplayer\com.unity.transport\Runtime" t="Include">
+      <e p="Bindings" t="Include">
+        <e p="network.bindings.cs" t="Include" />
+      </e>
+      <e p="DataStream.cs" t="Include" />
+      <e p="INetworkDriver.cs" t="Include" />
+      <e p="IPCManager.cs" t="Include" />
+      <e p="NetworkCompressionModel.cs" t="Include" />
+      <e p="NetworkConnection.cs" t="Include" />
+      <e p="NetworkDriver.cs" t="Include" />
+      <e p="NetworkEndPoint.cs" t="Include" />
+      <e p="NetworkEventQueue.cs" t="Include" />
+      <e p="NetworkInterface.cs" t="Include" />
+      <e p="NetworkLogger.cs" t="Include" />
+      <e p="NetworkParams.cs" t="Include" />
+      <e p="NetworkPipeline.cs" t="Include" />
+      <e p="NetworkProtocols.cs" t="Include" />
+      <e p="Pipelines" t="Include">
+        <e p="DefaultPipelineStageCollection.cs" t="Include" />
+        <e p="ReliableSequencedPipelineStage.cs" t="Include" />
+        <e p="ReliableUtility.cs" t="Include" />
+        <e p="SimulatorPipelineStage.cs" t="Include" />
+        <e p="SimulatorUtility.cs" t="Include" />
+        <e p="UnreliableSequencedPipelineStage.cs" t="Include" />
+      </e>
+      <e p="Unity.Networking.Transport.asmdef" t="Include" />
+      <e p="Utilities.cs" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\multiplayer\com.unity.transport\Tests\Editor" t="Include">
+      <e p="DataStreamTests.cs" t="Include" />
+      <e p="NetworkConnectionUnitTests.cs" t="Include" />
+      <e p="NetworkDriverFlowTest.cs" t="Include" />
+      <e p="NetworkDriverLoadTest.cs" t="Include" />
+      <e p="NetworkDriverUnitTests.cs" t="Include" />
+      <e p="NetworkEndPointUnitTests.cs" t="Include" />
+      <e p="NetworkEventQueueTests.cs" t="Include" />
+      <e p="NetworkHostUnitTests.cs" t="Include" />
+      <e p="NetworkJobTests.cs" t="Include" />
+      <e p="NetworkParamsTests.cs" t="Include" />
+      <e p="NetworkPipelineTest.cs" t="Include" />
+      <e p="NetworkProtocolsTests.cs" t="Include" />
+      <e p="ReliablePipelineTests.cs" t="Include" />
+      <e p="Unity.Networking.Transport.EditorTests.asmdef" t="Include" />
+      <e p="UtilitiesTests.cs" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\multiplayer\com.unity.transport\Tests\Runtime" t="Include">
+      <e p="com.unity.transport.Tests.asmdef" t="Include" />
+      <e p="ServerAndClientTests.cs" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\multiplayer\sampleproject" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CommandLine.cs" t="Include" />
+        <e p="DedicatedServerConfig.cs" t="Include" />
+        <e p="Matchmaking" t="Include">
+          <e p="Matchmaker.cs" t="Include" />
+          <e p="MatchmakingClient.cs" t="Include" />
+          <e p="MatchmakingController.cs" t="Include" />
+          <e p="MatchmakingCustomProperties.cs" t="Include" />
+          <e p="MatchmakingModel.cs" t="Include" />
+          <e p="UnityEngine.Ucg.Matchmaking.asmdef" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="LineRenderer.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Samples" t="Include">
+          <e p="Asteroids" t="Include">
+            <e p="Client" t="Include">
+              <e p="Components" t="Include">
+                <e p="ParticleComponents.cs" t="Include" />
+                <e p="ParticleEmitterComponent.cs" t="Include" />
+              </e>
+              <e p="Systems" t="Include">
+                <e p="InputSystem.cs" t="Include" />
+                <e p="LoadLevelSystem.cs" t="Include" />
+                <e p="Rendering" t="Include">
+                  <e p="AsteroidRenderSystem.cs" t="Include" />
+                  <e p="BulletRenderSystem.cs" t="Include" />
+                  <e p="LineRenderSystem.cs" t="Include" />
+                  <e p="ParticleEmitterSystem.cs" t="Include" />
+                  <e p="ParticleUpdateSystem.cs" t="Include" />
+                  <e p="ShipRenderSystem.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="ClientSettings.cs" t="Include" />
+            <e p="GameMain.cs" t="Include" />
+            <e p="Mixed" t="Include">
+              <e p="Commands" t="Include">
+                <e p="RpcLoadLevel.cs" t="Include" />
+                <e p="RpcSpawn.cs" t="Include" />
+              </e>
+              <e p="Components" t="Include">
+                <e p="AsteroidTagComponent.cs" t="Include" />
+                <e p="BulletTagComponent.cs" t="Include" />
+                <e p="CollisionSphereComponent.cs" t="Include" />
+                <e p="GhostComponent.cs" t="Include" />
+                <e p="LevelComponent.cs" t="Include" />
+                <e p="PlayerInputComponent.cs" t="Include" />
+                <e p="PlayerStateComponent.cs" t="Include" />
+                <e p="PlayerTagComponent.cs" t="Include" />
+                <e p="VelocityComponent.cs" t="Include" />
+              </e>
+              <e p="GhostAsteroid.cs" t="Include" />
+              <e p="GhostBullet.cs" t="Include" />
+              <e p="GhostCollection.cs" t="Include" />
+              <e p="GhostShip.cs" t="Include" />
+              <e p="NetCode" t="Include">
+                <e p="ClientServerWorld.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="MultiplayerPlayModeWindow.cs" t="Include" />
+                </e>
+                <e p="GhostDeltaPredictor.cs" t="Include" />
+                <e p="GhostReceiveSystem.cs" t="Include" />
+                <e p="GhostSendSystem.cs" t="Include" />
+                <e p="IGhostSerializer.cs" t="Include" />
+                <e p="ISnapshotData.cs" t="Include" />
+                <e p="NetworkStreamReceiveSystem.cs" t="Include" />
+                <e p="NetworkStreamSendSystem.cs" t="Include" />
+                <e p="NetworkTimeSystem.cs" t="Include" />
+                <e p="RenderInterpolationComponents.cs" t="Include" />
+                <e p="RenderInterpolationSystem.cs" t="Include" />
+                <e p="RpcSystem.cs" t="Include" />
+                <e p="Stats" t="Include">
+                  <e p="GhostStatsSystem.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Server" t="Include">
+              <e p="Components" t="Include">
+                <e p="BulletAgeComponent.cs" t="Include" />
+              </e>
+              <e p="Systems" t="Include">
+                <e p="AsteroidSystem.cs" t="Include" />
+                <e p="BulletAgeSystem.cs" t="Include" />
+                <e p="BulletSystem.cs" t="Include" />
+                <e p="CollisionSystem.cs" t="Include" />
+                <e p="DisconnectSystem.cs" t="Include" />
+                <e p="InputCommandSystem.cs" t="Include" />
+                <e p="LoadLevelSystem.cs" t="Include" />
+                <e p="SpawnSystem.cs" t="Include" />
+                <e p="SteeringSystem.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ServerSettings.cs" t="Include" />
+          </e>
+          <e p="Ping" t="Include">
+            <e p="ECS" t="Include">
+              <e p="PingClientSystem.cs" t="Include" />
+              <e p="PingConnectionComponent.cs" t="Include" />
+              <e p="PingDriverComponent.cs" t="Include" />
+              <e p="PingDriverSystem.cs" t="Include" />
+              <e p="PingServerSystem.cs" t="Include" />
+            </e>
+            <e p="PingClientBehaviour.cs" t="Include" />
+            <e p="PingClientUIBehaviour.cs" t="Include" />
+            <e p="PingMainThreadClientBehaviour.cs" t="Include" />
+            <e p="PingMainThreadServerBehaviour.cs" t="Include" />
+            <e p="PingServerBehaviour.cs" t="Include" />
+          </e>
+          <e p="Soaker" t="Include">
+            <e p="SoakClient.cs" t="Include" />
+            <e p="SoakClientBehaviour.cs" t="Include" />
+            <e p="SoakClientJobManager.cs" t="Include" />
+            <e p="SoakClientJobs.cs" t="Include" />
+            <e p="SoakCommon.cs" t="Include" />
+            <e p="SoakServer.cs" t="Include" />
+            <e p="SoakServerBehaviour.cs" t="Include" />
+            <e p="SoakServerJobs.cs" t="Include" />
+            <e p="SoakStatisticsReporter.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ServerQueryProtocol" t="Include">
+          <e p="SQP.cs" t="Include" />
+          <e p="SQPDriver.cs" t="Include" />
+          <e p="SQPTester.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="sampleproject.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Unity.Networking.Transport.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.EditorTests.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.PlayTests.csproj" t="IncludeRecursive" />
+      <e p="UnityEngine.Ucg.Matchmaking.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

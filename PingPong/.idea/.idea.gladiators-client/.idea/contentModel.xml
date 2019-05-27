@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Salavat\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Salavat\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_gladiators-client.80636282.00" t="ExcludeRecursive" />
+    <e p="D:\SalavatWork\glads\com.unity.transport\Editor" t="Include">
+      <e p="PipelineCollectionGeneratorWindow.cs" t="Include" />
+      <e p="Unity.Networking.Transport.Editor.asmdef" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\glads\com.unity.transport\Runtime" t="Include">
+      <e p="Bindings" t="Include">
+        <e p="network.bindings.cs" t="Include" />
+      </e>
+      <e p="DataStream.cs" t="Include" />
+      <e p="INetworkDriver.cs" t="Include" />
+      <e p="IPCManager.cs" t="Include" />
+      <e p="NetworkCompressionModel.cs" t="Include" />
+      <e p="NetworkConnection.cs" t="Include" />
+      <e p="NetworkDriver.cs" t="Include" />
+      <e p="NetworkEndPoint.cs" t="Include" />
+      <e p="NetworkEventQueue.cs" t="Include" />
+      <e p="NetworkInterface.cs" t="Include" />
+      <e p="NetworkLogger.cs" t="Include" />
+      <e p="NetworkParams.cs" t="Include" />
+      <e p="NetworkPipeline.cs" t="Include" />
+      <e p="NetworkProtocols.cs" t="Include" />
+      <e p="Pipelines" t="Include">
+        <e p="DefaultPipelineStageCollection.cs" t="Include" />
+        <e p="ReliableSequencedPipelineStage.cs" t="Include" />
+        <e p="ReliableUtility.cs" t="Include" />
+        <e p="SimulatorPipelineStage.cs" t="Include" />
+        <e p="SimulatorUtility.cs" t="Include" />
+        <e p="UnreliableSequencedPipelineStage.cs" t="Include" />
+      </e>
+      <e p="Unity.Networking.Transport.asmdef" t="Include" />
+      <e p="Utilities.cs" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\glads\com.unity.transport\Tests\Editor" t="Include">
+      <e p="DataStreamTests.cs" t="Include" />
+      <e p="NetworkConnectionUnitTests.cs" t="Include" />
+      <e p="NetworkDriverFlowTest.cs" t="Include" />
+      <e p="NetworkDriverLoadTest.cs" t="Include" />
+      <e p="NetworkDriverUnitTests.cs" t="Include" />
+      <e p="NetworkEndPointUnitTests.cs" t="Include" />
+      <e p="NetworkEventQueueTests.cs" t="Include" />
+      <e p="NetworkHostUnitTests.cs" t="Include" />
+      <e p="NetworkJobTests.cs" t="Include" />
+      <e p="NetworkParamsTests.cs" t="Include" />
+      <e p="NetworkPipelineTest.cs" t="Include" />
+      <e p="NetworkProtocolsTests.cs" t="Include" />
+      <e p="ReliablePipelineTests.cs" t="Include" />
+      <e p="Unity.Networking.Transport.EditorTests.asmdef" t="Include" />
+      <e p="UtilitiesTests.cs" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\glads\com.unity.transport\Tests\Runtime" t="Include">
+      <e p="com.unity.transport.Tests.asmdef" t="Include" />
+      <e p="ServerAndClientTests.cs" t="Include" />
+    </e>
+    <e p="D:\SalavatWork\glads\gladiators-client" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraView.cs" t="Include" />
+          <e p="CommandLine.cs" t="Include" />
+          <e p="DedicatedServerConfig.cs" t="Include" />
+          <e p="Field" t="Include">
+            <e p="BallController.cs" t="Include" />
+            <e p="Field.cs" t="Include" />
+            <e p="Gate.cs" t="Include" />
+            <e p="RocketController.cs" t="Include" />
+          </e>
+          <e p="GameControllers" t="Include">
+            <e p="ClientGameController.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+            <e p="HostGameController.cs" t="Include" />
+            <e p="IClientGameController.cs" t="Include" />
+            <e p="SingleGameController.cs" t="Include" />
+          </e>
+          <e p="Input" t="Include">
+            <e p="SwipeManager.cs" t="Include" />
+          </e>
+          <e p="Network" t="Include">
+            <e p="ClientServer" t="Include">
+              <e p="Base" t="Include">
+                <e p="PacketProcessorOptions.cs" t="Include" />
+                <e p="PacketsProcessor.cs" t="Include" />
+              </e>
+              <e p="ClientBehaviour.cs" t="Include" />
+              <e p="ClientHandlers.cs" t="Include" />
+              <e p="NetworkInfo.cs" t="Include" />
+              <e p="ServerBehaviour.cs" t="Include" />
+              <e p="ServerHandlers.cs" t="Include" />
+            </e>
+            <e p="Extentions" t="Include">
+              <e p="AttributeExtensions.cs" t="Include" />
+              <e p="PacketMapHelper.cs" t="Include" />
+            </e>
+            <e p="Packets" t="Include">
+              <e p="BallCharacteristics.cs" t="Include" />
+              <e p="BallPosition.cs" t="Include" />
+              <e p="Base" t="Include">
+                <e p="IPacket.cs" t="Include" />
+                <e p="NetworkPacket.cs" t="Include" />
+                <e p="PacketAttribute.cs" t="Include" />
+              </e>
+              <e p="ClientReady.cs" t="Include" />
+              <e p="Disconnect.cs" t="Include" />
+              <e p="Enum" t="Include">
+                <e p="DisconnectCauseEnum.cs" t="Include" />
+                <e p="PacketsEnum.cs" t="Include" />
+                <e p="PlayerPlace.cs" t="Include" />
+              </e>
+              <e p="GameOver.cs" t="Include" />
+              <e p="GameSettings.cs" t="Include" />
+              <e p="OnConnect.cs" t="Include" />
+              <e p="RocketPosition.cs" t="Include" />
+              <e p="RoomReady.cs" t="Include" />
+              <e p="Score.cs" t="Include" />
+              <e p="StartGame.cs" t="Include" />
+            </e>
+          </e>
+          <e p="StartGameManager.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="gladiators-client.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Unity.Networking.Transport.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.EditorTests.csproj" t="IncludeRecursive" />
+      <e p="Unity.Networking.Transport.PlayTests.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
